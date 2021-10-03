@@ -9,6 +9,7 @@ int main()
     value = increment();
     
     printf("%d",value);
+    prit
     return 0;
 }
 

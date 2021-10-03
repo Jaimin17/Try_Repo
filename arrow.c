@@ -17,5 +17,6 @@ int main(void)
         if(i<=n/2) x++;
         else x--;
     }
+    printf("done");
     return 0;
 }
